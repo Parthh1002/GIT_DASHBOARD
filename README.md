@@ -1,10 +1,14 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=PARTH%20PATEL&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Odoo%20%26%20AWS&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=PARTH%20PATEL&fontSize=52&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Odoo%20%26%20AWS&descAlignY=62&descAlign=50" width="100%" />
 </p>
 
+<h1 align="center">
+  Hi 👋, I'm Parth Patel!
+</h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%90%8B+I'm+Parth+Patel;%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
 </h3>
 
 <p align="center">
