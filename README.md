@@ -1,104 +1,101 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Aspiring+Data+Scientist+%F0%9F%93%88;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A5%B6;Building+Scalable+Data-Driven+Apps+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<!-- ==================== HERO HEADER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=220&section=header&text=PARTH%20PATEL&fontSize=52&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=62&descAlign=50" width="100%" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+Web+Applications;%F0%9F%A5%B6+Unlocking+Data-Driven+Insights+with+ML+%26+AI;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern;%F0%9F%92%A1+Turning+Complex+Logic+into+Seamless+User+Experiences" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=171717&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Data_Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://github.com/Parthh1002">
+    <img src="https://img.shields.io/github/followers/Parthh1002?label=Followers&style=for-the-badge&color=00F0FF&logo=github&logoColor=black" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Parthh1002&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CPI-9.03_%7C_SPI_9.54-00FF88?style=for-the-badge&logo=academic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Location-Gandhinagar%2C_Gujarat-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br/>
 
-## 👨‍💻 About Me
+<!-- ==================== GITHUB TROPHIES ==================== -->
+<p align="center">
+  <a href="https://github.com/Parthh1002">
+    <img src="https://github-profile-trophy.vercel.app/?username=Parthh1002&theme=radical&no-frame=true&no-background=true&column=6&margin-w=15" alt="Parth's GitHub Trophies" />
+  </a>
+</p>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Full Stack Developer & Aspiring Data Scientist"
-        self.code = ["Python", "JavaScript", "TypeScript", "SQL"]
-        self.web_stack = ["React", "Next.js", "Node.js", "Express", "Tailwind CSS", "MongoDB", "PostgreSQL"]
-        self.data_science_stack = ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow", "PyTorch", "Matplotlib", "Seaborn"]
-        self.architecture = ["REST APIs", "Microservices", "ETL Pipelines", "Model Deployment"]
+<br/>
 
-    def current_focus(self):
-        return "Building intelligent, data-driven web applications and ML models!"
+<!-- ==================== ABOUT ME TERMINAL ==================== -->
+## ⚡ `whoami` & Terminal Profile
 
-me = Developer()
-print(me.current_focus())
+```bash
+parth@developer-machine:~$ curl -s https://api.parthpatel.dev/v1/profile | jq .
 ```
 
-- 🔭 **Currently Working On**: High-performance web applications and end-to-end Machine Learning pipelines.
-- ⚡ **Sweet Spot**: Bridging the gap between robust Full-Stack architecture & Data-driven AI insights.
-- 🎯 **Goals**: Master Deep Learning, MLOps, and scalable system design.
-- 📬 **Reach Me**: Open for collaborations, freelance, and tech discussions!
+```json
+{
+  "developer": {
+    "name": "Parth Patel",
+    "location": "Gandhinagar, Gujarat, India 📍",
+    "institution": "LDRP Institute of Technology & Research (2024 - 2028)",
+    "degree": "B.Tech in Computer Science Engineering (2nd Year)",
+    "academics": {
+      "CPI": "9.03",
+      "SPI_Sem3": "9.54",
+      "GSEB_12th": "83.4%"
+    },
+    "dual_specialization": {
+      "primary": "Full Stack Web Development (PHP, Node.js, MySQL, JavaScript)",
+      "secondary": "Data Science & Machine Learning (Python, Pandas, NumPy, Scikit-Learn)"
+    },
+    "milestones": [
+      "🏆 Impacthon 2026 Finalist - Web & Database Integration Solution",
+      "💼 Web Development Intern (Remote) - Jan-Feb 2026",
+      "🤖 Built AI Interview Simulator & Road Pothole Complaint System"
+    ],
+    "philosophy": "Writing clean, efficient code for the web while mining intelligence from data."
+  }
+}
+```
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Arsenal
 
-### 💻 Full-Stack Development
-p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 📊 Data Science, AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Cloud DevOps
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Full-Stack Project</h3>
-      <p align="center"><b>Smart Web Application</b></p>
-      <p>A feature-rich full-stack application built using Next.js, Node.js, and MongoDB with real-time analytics & responsive dark UI.</p>
-      <p align="center">
-        <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code>
-      </p>
+    <td width="33%" valign="top" align="center">
+      <h3>🌐 Full-Stack Web</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,php,react&perline=3" /><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Data Science & ML Project</h3>
-      <p align="center"><b>Predictive Analytics Engine</b></p>
-      <p>Machine Learning pipeline for data preprocessing, EDA, feature engineering, and model training using Random Forest & XGBoost.</p>
-      <p align="center">
-        <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Streamlit</code>
-      </p>
+    <td width="33%" valign="top" align="center">
+      <h3>📊 Data Science & AI</h3>
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,java&perline=2" /><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🗄️ Databases & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=3" /><br/><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -107,53 +104,123 @@ p>
 
 ---
 
-## 📈 GitHub Analytics & Stats
+## 🚀 Key Projects & Innovations
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Interview Simulator</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI_Simulations-00F0FF?style=for-the-badge&logo=openai&logoColor=black" />
+      </p>
+      <p>Interactive AI-based web application to simulate real-world technical interview scenarios. Features dynamic question generation, real-time response evaluation, and structured MySQL data handling.</p>
+      <ul>
+        <li><b>Frontend:</b> HTML5, CSS3, JavaScript</li>
+        <li><b>Backend:</b> PHP / Node.js</li>
+        <li><b>Database:</b> MySQL (CRUD & Storage)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛣️ Gujarat Road Pothole Complaint Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Civic_Tech-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white" />
+      </p>
+      <p>A full-fledged civic-tech complaint resolution portal allowing citizens to log road issues with instant location tagging, complaint tracking, and admin dashboard.</p>
+      <ul>
+        <li><b>Features:</b> Form Validation, Tracking Engine</li>
+        <li><b>Database Architecture:</b> Relational MySQL Schema</li>
+        <li><b>Integration:</b> Real-time Frontend & BackendSync</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 💼 Experience & Achievements
+
+<table width="100%">
+  <tr>
+    <th width="30%">Role / Event</th>
+    <th width="20%">Timeline</th>
+    <th width="50%">Key Contributions</th>
+  </tr>
+  <tr>
+    <td><b>💼 Web Development Intern</b><br/><i>Remote</i></td>
+    <td><code>Jan 2026 - Feb 2026</code></td>
+    <td>Engineered responsive web applications using HTML/CSS/JS. Built backend functionality in PHP and designed optimized MySQL databases.</td>
+  </tr>
+  <tr>
+    <td><b>🏆 Impacthon 2026 Finalist</b><br/><i>Engineering Hackathon</i></td>
+    <td><code>2026</code></td>
+    <td>Recognized among top finalist teams for building an impactful web-based platform with seamless database integration under timed constraints.</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 📈 GitHub Analytics & Activity Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh1002&theme=react-dark&hide_border=true&area=true" width="100%" alt="Parth's GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthh1002&show_icons=true&theme=cyberpunk&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh1002&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh1002&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 ---
 
-## 🐍 Contribution Graph Snake
+## 🐍 Contribution Graph Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Parthh1002/Parthh1002/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
 </p>
 
 <br/>
 
 ---
 
-## 🌐 Connect With Me
+## 💡 Daily Developer Quote
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Developer Quote" />
+</p>
+
+<br/>
+
+---
+
+## 🌐 Connect & Network With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/parth-patel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <a href="https://github.com/Parthh1002" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="mailto:parthh1002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="tel:+918866077505">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <sub><i>⚡ "Turning code into scalable products and data into actionable insights."</i></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,10,2,0&height=100&section=footer" width="100%" />
 </p>
