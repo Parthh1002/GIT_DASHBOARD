@@ -1,10 +1,10 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=582CBA&height=230&section=header&text=Parth%20N.%20Patel&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A25A9,100:7000FF&height=230&section=header&text=Parth%20N.%20Patel&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=62&descAlign=50" width="100%" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%90%8B+I'm+Parth+Patel;%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%90%8B+I'm+Parth+Patel;%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A4%96+AI-Powered+Engineering+(Cursor+AI%2C+Claude+Code%2C+Antigravity);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -30,13 +30,26 @@ class ParthPatel:
             "Aspiring Data Scientist & AI/ML Enthusiast",
             "Odoo ERP Customizer & AWS Cloud Practitioner"
         ]
-        self.education = "B.Tech CSE @ LDRP Institute of Technology & Research (2024 - 2028)"
+        self.education = "B.Tech CSE @ LDRP-ITR (2024 - 2028)"
         self.academic_perks = {"CPI": 9.03, "SPI (Sem 3)": 9.54}
         self.location = "Gandhinagar, Gujarat, India 📍"
         
-        self.web_stack = ["Next.js", "React", "Express.js", "Node.js", "TypeScript", "Tailwind CSS", "PHP"]
-        self.data_science_ai = ["Python", "Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Claude/GenAI API"]
-        self.cloud_enterprise = ["Odoo ERP", "AWS Cloud (EC2/S3)", "PostgreSQL", "MySQL", "MongoDB"]
+        self.web_stack = [
+            "Next.js", "React", "Express.js", "Node.js", 
+            "TypeScript", "Tailwind CSS", "PHP"
+        ]
+        self.data_science_ai = [
+            "Python", "Pandas", "NumPy", "Scikit-Learn", 
+            "Matplotlib", "Seaborn", "Claude/GenAI API"
+        ]
+        self.ai_agentic_tools = [
+            "Cursor AI", "Claude Code CLI", 
+            "Google Antigravity IDE", "Prompt Engineering"
+        ]
+        self.cloud_enterprise = [
+            "Odoo ERP", "AWS Cloud (EC2/S3)", 
+            "PostgreSQL", "MySQL", "MongoDB"
+        ]
         
         self.achievements = [
             "🏆 Impacthon 2026 Finalist - Web & DB Solution",
@@ -44,7 +57,10 @@ class ParthPatel:
         ]
 
     def execute_mission(self):
-        return "Architecting high-performance web systems and leveraging Data Science for intelligent automation!"
+        return (
+            "Architecting high-performance web systems and "
+            "leveraging Data Science for intelligent automation!"
+        )
 
 parth = ParthPatel()
 print(parth.execute_mission())
@@ -52,6 +68,7 @@ print(parth.execute_mission())
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering at **LDRP-ITR** *(2nd Year | CPI: 9.03 | SPI: 9.54)*
 - 💼 **Experience:** Ex-Web Development Intern *(Remote)* — Created responsive web UIs & MySQL database backends.
+- 🤖 **AI-Native Engineering:** Expert user of **Cursor AI**, **Claude Code**, and **Google Antigravity IDE** for rapid, agentic software engineering.
 - 🏆 **Achievements:** **Impacthon 2026 Finalist** — Recognized for full-stack database integration solutions.
 - 🎯 **Current Focus:** Next.js Full-Stack Architecture, Data Analytics, Odoo Customization & AWS Cloud.
 - 📍 **Location:** Gandhinagar, Gujarat, India
@@ -70,14 +87,14 @@ print(parth.execute_mission())
       <b>Next.js • React • Express.js<br/>Node.js • TypeScript • Tailwind CSS<br/>JavaScript • PHP • Bootstrap</b>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>📊 Data Science, AI & Odoo</h3>
+      <h3>📊 Data Science & AI</h3>
       <img src="https://skillicons.dev/icons?i=py,aws,c,cpp,java&perline=3" /><br/><br/>
       <b>Python • Pandas • NumPy<br/>Scikit-Learn • Odoo Framework<br/>AWS Cloud • C / C++ • Java</b>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🗄️ Databases & DevOps</h3>
+      <h3>🤖 AI Tools & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,vercel,git,github,vscode&perline=3" /><br/><br/>
-      <b>PostgreSQL • MySQL • MongoDB<br/>AWS Services • Vercel • Docker<br/>Git • GitHub • VS Code</b>
+      <b>Cursor AI • Claude Code<br/>Google Antigravity IDE<br/>PostgreSQL • MySQL • MongoDB<br/>Vercel • Docker • Git & GitHub</b>
     </td>
   </tr>
 </table>
