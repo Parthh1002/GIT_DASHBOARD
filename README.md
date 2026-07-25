@@ -132,15 +132,28 @@ I am a passionate **Full-Stack Developer** & **Aspiring Data Scientist** current
 
 ---
 
-## 📈 GitHub Analytics
+<!-- ==================== GITHUB TROPHIES & ANALYTICS ==================== -->
+## 🏆 GitHub Trophies & Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Parthh1002&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Parth's GitHub Trophies" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh1002&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Parthh1002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthh1002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthh1002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthh1002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -159,7 +172,7 @@ I am a passionate **Full-Stack Developer** & **Aspiring Data Scientist** current
   <a href="mailto:parthh1002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+918866077505">
+  <a href="https://wa.me/918866077505" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
