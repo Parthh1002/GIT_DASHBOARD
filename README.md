@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4F46E5&height=220&section=header&text=Parth%20N.%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4F46E5&height=220&section=header&text=Parth%20M.%20Patel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+(Next.js%2C+React%2C+Node.js);Odoo+ERP+Customizer+%26+AWS+Cloud;AI-Powered+Engineering+(Cursor%2C+Claude%2C+Antigravity);B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
