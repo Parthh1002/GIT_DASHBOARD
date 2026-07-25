@@ -1,10 +1,10 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=PARTH%20PATEL&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=PARTH%20PATEL&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Odoo%20%26%20AWS&descAlignY=62&descAlign=50" width="100%" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full+Stack+Web+Developer+%26+Data+Science+Enthusiast;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern;%F0%9F%92%A1+Building+Scalable%2C+Data-Driven+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -21,36 +21,38 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 👨‍💻 About Me
 
-Hi there! 👋 I'm **Parth Patel**, a 2nd-year Computer Science Engineering student passionate about building high-performance web applications and decoding data with Machine Learning.
+Hi there! 👋 I'm **Parth Patel**, a 2nd-year Computer Science Engineering student specializing in **Full-Stack Development**, **Data Science & ML**, **Odoo ERP Customizations**, and **AWS Cloud Services**.
 
 - 🎓 **Education:** B.Tech in CSE at **LDRP Institute of Technology & Research** *(CPI: 9.03 | SPI: 9.54)*
-- 💼 **Experience:** Ex-Web Development Intern *(Remote)* — Created responsive web UIs & MySQL database backends.
-- 🏆 **Achievements:** **Impacthon 2026 Finalist** — Recognized for full-stack database integration.
-- 🎯 **Specialization:** Bridging Full-Stack Development with Data Analytics & AI.
+- 💼 **Experience:** Ex-Web Development Intern *(Remote)* — Built responsive web UIs & MySQL database backends.
+- 🏆 **Achievements:** **Impacthon 2026 Finalist** — Recognized for full-stack database integration solutions.
+- 💻 **Modern Web Stack:** Next.js, React.js, Express.js, Node.js, TypeScript, Tailwind CSS, PHP.
+- ⚙️ **Enterprise & Cloud:** Odoo Framework (Python/PostgreSQL) & AWS Cloud Infrastructure.
+- 📊 **Data & AI:** Python, Data Analytics (Pandas/NumPy), Machine Learning (Scikit-Learn), LLMs/Claude API.
 - 📍 **Location:** Gandhinagar, Gujarat, India
 
 <br/>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Arsenal
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
       <h3>🌐 Full-Stack Web</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,php&perline=4" /><br/><br/>
-      <b>HTML5 • CSS3 • JavaScript<br/>Bootstrap • Node.js • PHP</b>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,ts,js,tailwind,bootstrap,php,html,css&perline=4" /><br/><br/>
+      <b>Next.js • React • Express.js<br/>Node.js • TypeScript • Tailwind CSS<br/>JavaScript • PHP • Bootstrap</b>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>📊 Data Science & AI</h3>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,java&perline=4" /><br/><br/>
-      <b>Python • Pandas • NumPy<br/>Scikit-Learn • C / C++ • Java</b>
+      <h3>📊 Data Science, AI & Odoo</h3>
+      <img src="https://skillicons.dev/icons?i=py,aws,c,cpp,java&perline=3" /><br/><br/>
+      <b>Python • Pandas • NumPy<br/>Scikit-Learn • Odoo Framework<br/>AWS Cloud • C / C++ • Java</b>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🗄️ Databases & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=4" /><br/><br/>
-      <b>MySQL • MongoDB • Git<br/>GitHub • VS Code</b>
+      <h3>🗄️ Databases & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,vercel,git,github,vscode&perline=3" /><br/><br/>
+      <b>PostgreSQL • MySQL • MongoDB<br/>AWS Services • Vercel • Docker<br/>Git • GitHub • VS Code</b>
     </td>
   </tr>
 </table>
@@ -75,6 +77,22 @@ Hi there! 👋 I'm **Parth Patel**, a 2nd-year Computer Science Engineering stud
       <p>A web-based civic complaint management system for pothole reporting with structured MySQL database, form validation, and tracking.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20MySQL-FF0055?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ Aapno Rasto</h3>
+      <p>Modern Full-Stack web application built with Next.js, React, Tailwind CSS, and Shadcn UI components deployed seamlessly on Vercel.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20React%20%7C%20Tailwind%20%7C%20Vercel-7000FF?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Odoo ERP & AWS Integrations</h3>
+      <p>Enterprise Odoo customization modules developed in Python & PostgreSQL, integrated with AWS Cloud deployment infrastructure.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tech-Odoo%20%7C%20Python%20%7C%20PostgreSQL%20%7C%20AWS-00FF88?style=flat-square" />
       </p>
     </td>
   </tr>
