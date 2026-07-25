@@ -1,14 +1,10 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=PARTH%20PATEL&fontSize=52&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Odoo%20%26%20AWS&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=220&section=header&text=PARTH%20PATEL&fontSize=52&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Odoo%20%26%20AWS&descAlignY=62&descAlign=50" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Parth Patel!
-</h1>
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%90%8B+I'm+Parth+Patel;%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%90%8B+I'm+Parth+Patel;%E2%9A%A1+Full+Stack+Developer+(Next.js%2C+React%2C+Express%2C+Node.js);%F0%9F%A5%B6+Aspiring+Data+Scientist+%26+AI%2FML+Enthusiast;%E2%98%81%EF%B8%8F+AWS+Cloud+Practitioner+%26+Odoo+ERP+Developer;%F0%9F%8E%93+B.Tech+CSE+@+LDRP-ITR+(CPI:+9.03+%7C+SPI:+9.54);%F0%9F%8F%86+Impacthon+2026+Finalist+%26+Ex-Web+Dev+Intern" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -25,14 +21,39 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 👨‍💻 About Me
 
-Hi there! 👋 I'm **Parth Patel**, a 2nd-year Computer Science Engineering student specializing in **Full-Stack Development**, **Data Science & ML**, **Odoo ERP Customizations**, and **AWS Cloud Services**.
+```python
+class ParthPatel:
+    def __init__(self):
+        self.name = "Parth Patel"
+        self.roles = [
+            "Full Stack Developer (Next.js, React, Express, Node.js)",
+            "Aspiring Data Scientist & AI/ML Enthusiast",
+            "Odoo ERP Customizer & AWS Cloud Practitioner"
+        ]
+        self.education = "B.Tech CSE @ LDRP Institute of Technology & Research (2024 - 2028)"
+        self.academic_perks = {"CPI": 9.03, "SPI (Sem 3)": 9.54}
+        self.location = "Gandhinagar, Gujarat, India 📍"
+        
+        self.web_stack = ["Next.js", "React", "Express.js", "Node.js", "TypeScript", "Tailwind CSS", "PHP"]
+        self.data_science_ai = ["Python", "Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Claude/GenAI API"]
+        self.cloud_enterprise = ["Odoo ERP", "AWS Cloud (EC2/S3)", "PostgreSQL", "MySQL", "MongoDB"]
+        
+        self.achievements = [
+            "🏆 Impacthon 2026 Finalist - Web & DB Solution",
+            "💼 Ex-Web Development Intern (Remote)"
+        ]
 
-- 🎓 **Education:** B.Tech in CSE at **LDRP Institute of Technology & Research** *(CPI: 9.03 | SPI: 9.54)*
-- 💼 **Experience:** Ex-Web Development Intern *(Remote)* — Built responsive web UIs & MySQL database backends.
+    def execute_mission(self):
+        return "Architecting high-performance web systems and leveraging Data Science for intelligent automation!"
+
+parth = ParthPatel()
+print(parth.execute_mission())
+```
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering at **LDRP-ITR** *(2nd Year | CPI: 9.03 | SPI: 9.54)*
+- 💼 **Experience:** Ex-Web Development Intern *(Remote)* — Created responsive web UIs & MySQL database backends.
 - 🏆 **Achievements:** **Impacthon 2026 Finalist** — Recognized for full-stack database integration solutions.
-- 💻 **Modern Web Stack:** Next.js, React.js, Express.js, Node.js, TypeScript, Tailwind CSS, PHP.
-- ⚙️ **Enterprise & Cloud:** Odoo Framework (Python/PostgreSQL) & AWS Cloud Infrastructure.
-- 📊 **Data & AI:** Python, Data Analytics (Pandas/NumPy), Machine Learning (Scikit-Learn), LLMs/Claude API.
+- 🎯 **Current Focus:** Next.js Full-Stack Architecture, Data Analytics, Odoo Customization & AWS Cloud.
 - 📍 **Location:** Gandhinagar, Gujarat, India
 
 <br/>
