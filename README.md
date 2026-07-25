@@ -121,12 +121,20 @@ I am a passionate **Full-Stack Developer** & **Aspiring Data Scientist** current
 
 ---
 
-## 💼 Work & Hackathon Experience
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+## 📊 Contribution Activity
 
-| Organization / Event | Role | Timeline | Key Contributions |
-| :--- | :--- | :--- | :--- |
-| **Web Development Intern** | Remote Intern | `Jan 2026 - Feb 2026` | Developed responsive frontend pages and implemented backend CRUD operations using PHP & MySQL. |
-| **Impacthon 2026** | Finalist | `2026` | Selected as Finalist for developing an integrated web & database solution under hackathon conditions. |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh1002&theme=tokyonight&area=true&hide_border=true&custom_title=Parth%20Patel's%20Contribution%20Graph" width="100%" alt="Parth Patel's Contribution Graph" />
+</p>
+
+<p align="center">
+  <i>"Code is the bridge between an idea and its impact."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A25A9,100:7000FF&height=100&section=footer" width="100%" />
+</p>
 
 <br/>
 
@@ -137,12 +145,6 @@ I am a passionate **Full-Stack Developer** & **Aspiring Data Scientist** current
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parthh1002&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Parth's GitHub Trophies" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthh1002&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <br/>
@@ -180,5 +182,5 @@ I am a passionate **Full-Stack Developer** & **Aspiring Data Scientist** current
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,10,2,0&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A25A9,100:7000FF&height=90&section=footer" width="100%" />
 </p>
