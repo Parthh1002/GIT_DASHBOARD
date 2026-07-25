@@ -115,26 +115,42 @@ print(parth.execute_mission())
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛣️ Gujarat Road Pothole Portal</h3>
-      <p>A web-based civic complaint management system for pothole reporting with structured MySQL database, form validation, and tracking.</p>
+      <h3 align="center">🦸‍♂️ The Saviour</h3>
+      <p>An emergency response & civic safety platform with real-time incident reporting, GPS location tracking, and automated SOS alert management.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20MySQL-FF0055?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB-FF0055?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🗺️ Aapno Rasto</h3>
-      <p>Modern Full-Stack web application built with Next.js, React, Tailwind CSS, and Shadcn UI components deployed seamlessly on Vercel.</p>
+      <h3 align="center">🚍 Transit Ops</h3>
+      <p>An intelligent public transport & fleet management system featuring live vehicle tracking, dynamic route optimization, and operational analytics.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20React%20%7C%20Tailwind%20%7C%20Vercel-7000FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20PostgreSQL-7000FF?style=flat-square" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ Aapno Rasto</h3>
+      <p>Modern Full-Stack navigation & community route platform built with Next.js, React, Tailwind CSS, and Shadcn UI components deployed on Vercel.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tech-Next.js%20%7C%20React%20%7C%20Tailwind%20%7C%20Vercel-00FF88?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Odoo ERP & AWS Integrations</h3>
       <p>Enterprise Odoo customization modules developed in Python & PostgreSQL, integrated with AWS Cloud deployment infrastructure.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Odoo%20%7C%20Python%20%7C%20PostgreSQL%20%7C%20AWS-00FF88?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Odoo%20%7C%20Python%20%7C%20PostgreSQL%20%7C%20AWS-FF9900?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ AI Agentic Workflows</h3>
+      <p>Automated software engineering workflows, custom prompt architectures, and autonomous agent setups built with Cursor AI, Claude Code & Antigravity.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tech-Cursor%20AI%20%7C%20Claude%20Code%20%7C%20Antigravity-00F0FF?style=flat-square" />
       </p>
     </td>
   </tr>
