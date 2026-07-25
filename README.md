@@ -21,57 +21,18 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 👨‍💻 About Me
 
-```python
-class ParthPatel:
-    def __init__(self):
-        self.name = "Parth Patel"
-        self.roles = [
-            "Full Stack Developer (Next.js, React, Express, Node.js)",
-            "Aspiring Data Scientist & AI/ML Enthusiast",
-            "Odoo ERP Customizer & AWS Cloud Practitioner"
-        ]
-        self.education = "B.Tech CSE @ LDRP-ITR (2024 - 2028)"
-        self.academic_perks = {"CPI": 9.03, "SPI (Sem 3)": 9.54}
-        self.location = "Gandhinagar, Gujarat, India 📍"
-        
-        self.web_stack = [
-            "Next.js", "React", "Express.js", "Node.js", 
-            "TypeScript", "Tailwind CSS", "PHP"
-        ]
-        self.data_science_ai = [
-            "Python", "Pandas", "NumPy", "Scikit-Learn", 
-            "Matplotlib", "Seaborn", "Claude/GenAI API"
-        ]
-        self.ai_agentic_tools = [
-            "Cursor AI", "Claude Code CLI", 
-            "Google Antigravity IDE", "Prompt Engineering"
-        ]
-        self.cloud_enterprise = [
-            "Odoo ERP", "AWS Cloud (EC2/S3)", 
-            "PostgreSQL", "MySQL", "MongoDB"
-        ]
-        
-        self.achievements = [
-            "🏆 Impacthon 2026 Finalist - Web & DB Solution",
-            "💼 Ex-Web Development Intern (Remote)"
-        ]
+> **Architecting high-performance web systems & leveraging Data Science & AI for intelligent automation.**
 
-    def execute_mission(self):
-        return (
-            "Architecting high-performance web systems and "
-            "leveraging Data Science for intelligent automation!"
-        )
+I am a passionate **Full-Stack Developer** & **Aspiring Data Scientist** currently pursuing B.Tech in Computer Science & Engineering at **LDRP-ITR**, Gandhinagar. I specialize in building scalable web applications with Next.js, React, Node.js, and Odoo ERP, driven by agentic AI dev workflows.
 
-parth = ParthPatel()
-print(parth.execute_mission())
-```
+### 📌 Key Highlights
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering at **LDRP-ITR** *(2nd Year | CPI: 9.03 | SPI: 9.54)*
-- 💼 **Experience:** Ex-Web Development Intern *(Remote)* — Created responsive web UIs & MySQL database backends.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering @ **LDRP-ITR** *(2nd Year | CPI: 9.03 | SPI: 9.54)*
+- 💼 **Experience:** **Ex-Web Development Intern** *(Remote)* — Created responsive UIs & MySQL database backends.
 - 🤖 **AI-Native Engineering:** Expert user of **Cursor AI**, **Claude Code**, and **Google Antigravity IDE** for rapid, agentic software engineering.
-- 🏆 **Achievements:** **Impacthon 2026 Finalist** — Recognized for full-stack database integration solutions.
+- 🏆 **Achievements:** **Impacthon 2026 Finalist** — Recognized for full-stack & database integration solutions.
 - 🎯 **Current Focus:** Next.js Full-Stack Architecture, Data Analytics, Odoo Customization & AWS Cloud.
-- 📍 **Location:** Gandhinagar, Gujarat, India
+- 📍 **Location:** Gandhinagar, Gujarat, India 📍
 
 <br/>
 
